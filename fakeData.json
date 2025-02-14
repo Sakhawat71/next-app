@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Bluetooth Headphones",
+            "price": 59.99,
+            "category": "Electronics",
+            "image": "https://via.placeholder.com/150",
+            "description": "High-quality noise-canceling Bluetooth headphones with long battery life."
+        },
+        {
+            "id": 2,
+            "name": "Smartwatch Pro 3",
+            "price": 129.99,
+            "category": "Wearable Tech",
+            "image": "https://via.placeholder.com/150",
+            "description": "Water-resistant smartwatch with health tracking and GPS."
+        },
+        {
+            "id": 3,
+            "name": "Gaming Mouse RGB",
+            "price": 39.99,
+            "category": "Accessories",
+            "image": "https://via.placeholder.com/150",
+            "description": "Ergonomic gaming mouse with customizable RGB lighting."
+        },
+        {
+            "id": 4,
+            "name": "Mechanical Keyboard",
+            "price": 79.99,
+            "category": "Accessories",
+            "image": "https://via.placeholder.com/150",
+            "description": "High-performance mechanical keyboard with customizable key switches."
+        },
+        {
+            "id": 5,
+            "name": "4K Ultra HD Smart TV",
+            "price": 499.99,
+            "category": "Electronics",
+            "image": "https://via.placeholder.com/150",
+            "description": "55-inch 4K Smart TV with HDR and voice assistant support."
+        },
+        {
+            "id": 6,
+            "name": "Wireless Earbuds",
+            "price": 29.99,
+            "category": "Audio",
+            "image": "https://via.placeholder.com/150",
+            "description": "Compact true wireless earbuds with deep bass and touch controls."
+        },
+        {
+            "id": 7,
+            "name": "Portable Power Bank",
+            "price": 24.99,
+            "category": "Accessories",
+            "image": "https://via.placeholder.com/150",
+            "description": "10000mAh fast-charging power bank for mobile devices."
+        },
+        {
+            "id": 8,
+            "name": "Smart Home Speaker",
+            "price": 79.99,
+            "category": "Smart Home",
+            "image": "https://via.placeholder.com/150",
+            "description": "Voice-controlled smart speaker with built-in AI assistant."
+        },
+        {
+            "id": 9,
+            "name": "Laptop Backpack",
+            "price": 39.99,
+            "category": "Bags",
+            "image": "https://via.placeholder.com/150",
+            "description": "Waterproof laptop backpack with multiple compartments and USB charging port."
+        },
+        {
+            "id": 10,
+            "name": "Digital Drawing Tablet",
+            "price": 199.99,
+            "category": "Electronics",
+            "image": "https://via.placeholder.com/150",
+            "description": "Professional drawing tablet with pressure-sensitive stylus."
+        }
+    ]
+}

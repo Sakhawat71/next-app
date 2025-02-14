@@ -13,6 +13,7 @@ const Navbar = () => {
                 <h1 className="text-2xl font-bold">MyApp</h1>
                 <div className="flex space-x-4">
                     <Link href="/" className={linkStyle("/")}>Home</Link>
+                    <Link href="/products" className={linkStyle("/products")}>Products</Link>
                     <Link href="/about" className={linkStyle("/about")}>About</Link>
                     <Link href="/contact" className={linkStyle("/contact")}>Contact</Link>
                     <Link href="/login" className={linkStyle("/login")}>Login</Link>
