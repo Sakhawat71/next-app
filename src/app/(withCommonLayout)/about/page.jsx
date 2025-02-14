@@ -1,5 +1,6 @@
 'use client'
 import { useRouter } from 'next/navigation';
+import style from './About.module.css';
 
 const AboutPage = () => {
     const route = useRouter();
@@ -19,6 +20,9 @@ const AboutPage = () => {
             >
                 DashBoard
             </button>
+            <div className='my-10'>
+                <h3 className={style.text_color}>Hello Everyone</h3>
+            </div>
         </div>
     );
 };
