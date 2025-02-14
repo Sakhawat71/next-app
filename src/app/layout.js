@@ -24,9 +24,7 @@ export default function RootLayout({ children }) {
       <body
         className='bg-slate-300'
       >
-        <Navbar />
-        <main className="container mx-auto p-4 flex-grow min-h-[75vh]">{children}</main>
-        <Footer />
+        {children}
       </body>
     </html>
   );

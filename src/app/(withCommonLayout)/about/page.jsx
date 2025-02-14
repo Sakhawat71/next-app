@@ -1,13 +1,11 @@
 'use client'
 import { useRouter } from 'next/navigation';
-import React from 'react';
 
 const AboutPage = () => {
     const route = useRouter();
 
     const handleNavigation = () => {
         route.push('/dashboard')
-        console.log("clicked");
     };
 
 
