@@ -1,6 +1,13 @@
-@tailwind base;
+/* Ensure Tailwind CSS is installed and configured */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
+
 
 :root {
   --background: #ffffff;
