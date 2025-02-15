@@ -3,9 +3,11 @@ import React from 'react';
 
 const Products = async () => {
 
-    const res = await fetch("http://localhost:5000/products");
+    const res = await fetch("http://localhost:5000/products", {
+        next: { revalidate: 5 }
+    });
     const products = await res.json();
-    console.log(products);
+    // console.log(products);
 
     return (
         <div>

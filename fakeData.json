@@ -2,10 +2,10 @@
     "products": [
         {
             "id": 1,
-            "name": "Wireless Bluetooth Headphones",
+            "name": "Wireless Headphones",
             "price": 59.99,
             "category": "Electronics",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "High-quality noise-canceling Bluetooth headphones with long battery life."
         },
         {
@@ -13,7 +13,7 @@
             "name": "Smartwatch Pro 3",
             "price": 129.99,
             "category": "Wearable Tech",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "Water-resistant smartwatch with health tracking and GPS."
         },
         {
@@ -21,7 +21,7 @@
             "name": "Gaming Mouse RGB",
             "price": 39.99,
             "category": "Accessories",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "Ergonomic gaming mouse with customizable RGB lighting."
         },
         {
@@ -29,7 +29,7 @@
             "name": "Mechanical Keyboard",
             "price": 79.99,
             "category": "Accessories",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "High-performance mechanical keyboard with customizable key switches."
         },
         {
@@ -37,7 +37,7 @@
             "name": "4K Ultra HD Smart TV",
             "price": 499.99,
             "category": "Electronics",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "55-inch 4K Smart TV with HDR and voice assistant support."
         },
         {
@@ -45,7 +45,7 @@
             "name": "Wireless Earbuds",
             "price": 29.99,
             "category": "Audio",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "Compact true wireless earbuds with deep bass and touch controls."
         },
         {
@@ -53,7 +53,7 @@
             "name": "Portable Power Bank",
             "price": 24.99,
             "category": "Accessories",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "10000mAh fast-charging power bank for mobile devices."
         },
         {
@@ -61,7 +61,7 @@
             "name": "Smart Home Speaker",
             "price": 79.99,
             "category": "Smart Home",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "Voice-controlled smart speaker with built-in AI assistant."
         },
         {
@@ -69,7 +69,7 @@
             "name": "Laptop Backpack",
             "price": 39.99,
             "category": "Bags",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "Waterproof laptop backpack with multiple compartments and USB charging port."
         },
         {
@@ -77,7 +77,7 @@
             "name": "Digital Drawing Tablet",
             "price": 199.99,
             "category": "Electronics",
-            "image": "https://via.placeholder.com/150",
+            "image": "https://i.ibb.co.com/012Y6DV/23945910-6891641.jpg",
             "description": "Professional drawing tablet with pressure-sensitive stylus."
         }
     ]
