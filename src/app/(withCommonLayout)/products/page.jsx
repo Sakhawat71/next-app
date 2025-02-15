@@ -10,6 +10,8 @@ const Products = async () => {
     const products = await res.json();
     // console.log(products);
 
+    // throw new Error('Custom error')
+
     return (
         <div>
             <h2>All Products</h2>
