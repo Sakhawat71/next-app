@@ -4,7 +4,8 @@ import React from 'react';
 const Products = async () => {
 
     const res = await fetch("http://localhost:5000/products", {
-        next: { revalidate: 5 }
+        // next: { revalidate: 30 }
+        cache: 'no-store'
     });
     const products = await res.json();
     // console.log(products);
